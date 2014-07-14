@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Settings" >
+        <EditTextPreference
+            android:title="URL to load valid tickets from"
+            android:key="url"/>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
